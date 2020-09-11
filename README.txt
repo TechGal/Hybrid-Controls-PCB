@@ -15,3 +15,6 @@ PCB Requirements:
  - Stepper motor: PT NNUMBER
     - Motors take 30V input
  - Limit switch: PT NUMBER
+
+
+A PCB review will be conducted to ensure the best board design possible.
